@@ -1,10 +1,12 @@
 # 🎵 Beatland festival
 
-- Starts: ???
-- Ends: ???
+- Starts: July 17, 2025 Noon UTC
+- Ends: July 24, 2025 Noon UTC
 
 - nSLOC: 234
 - Complexity Score: 252
+
+[//]: # (contest-details-open)
 
 ## About the Project
 
