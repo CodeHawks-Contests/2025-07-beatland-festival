@@ -61,13 +61,13 @@ foundryup
 
 export FOUNDRY_DISABLE_NIGHTLY_WARNING=1
 
-git clone XXXXXXRepoGoesHere
+git clone https://github.com/CodeHawks-Contests/2025-07-beatland-festival.git
 
-cd folderNameXXXX
+cd 2025-07-beatland-festival
 
-forge install foundry-rs/forge-std --no-commit
+forge install foundry-rs/forge-std
 
-forge install OpenZeppelin/openzeppelin-contracts --no-commit
+forge install OpenZeppelin/openzeppelin-contracts
 
 forge build
 
@@ -85,3 +85,5 @@ Alternatively you could use `make` after cloning the repo and changing the direc
 - Owner and Organizer are trusted.
 - Some checks were left out for gas efficiency.
 - The uri address we used inside the ERC1155 constructor is provisional, we will deal with that closer to live deployment.
+
+[//]: # (known-issues-close)
